@@ -1,0 +1,137 @@
+#container {
+    padding-left: 350px;
+    padding-right: 350px;
+}
+
+a:link, a:visited, a:hover, a:active {
+  text-decoration: none;
+}
+
+
+
+#Exile_Lifestyle {
+    font-family: "IBM Plex Sans";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+    line-height: normal;
+}
+
+.header_links {
+    font-family: "arial";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    color: rgb(121, 158, 173);
+    line-height: normal;
+    margin-right: 15px;
+}
+
+.header_links:hover {
+    color: rgb(77, 204, 255);
+}
+
+#span1:hover, #span2:hover {
+    color: rgb(77, 204, 255);
+
+}
+
+#Categorization {
+    font-family: "IBM Plex Sans";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+    line-height: normal;
+    margin-bottom: -0.5em;
+}
+
+#p1 {
+    font-family: "Times New Roman";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    color: rgb(71, 71, 71);
+    line-height: 30px;
+}
+
+#p2 {
+    font-family: "Times New Roman";
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 400;
+    color: rgb(71, 71, 71);
+    line-height: 27px;
+}
+
+#p4 {
+    font-family: "Vollkorn";
+    font-size: 15px;
+    font-style: italic;
+    font-weight: 400;
+    color: rgb(156, 156, 156);
+    line-height: normal;
+}
+
+#span1 {
+    font-family: "Vollkorn";
+    font-size: 15px;
+    font-style: italic;
+    font-weight: 400;
+    color: rgb(121, 158, 173);
+    line-height: 27px;
+}
+
+#span2 {
+    font-family: "Times New Roman";
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 400;
+    color: rgb(121, 158, 173);
+    line-height: normal;
+}
+
+#p3 {
+    font-family: "arial";
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+    line-height: normal;
+}
+
+#p5 {
+    font-family: "Vollkorn";
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    color: rgb(121, 158, 173);
+    line-height: normal;
+}
+
+.Footer_links{
+    font-family: "arial";
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    color: rgb(121, 158, 173);
+    line-height: normal;
+}
+
+.Footer_links:hover {
+    color: rgb(77, 204, 255);
+}
+
+.Footer_divs {
+    margin-bottom: 5px;
+}
+
+#hr {
+    width: 25px;
+    float: left;
+}
+
+header {
+    margin-top: 30px;
+}
